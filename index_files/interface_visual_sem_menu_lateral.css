@@ -1,0 +1,19 @@
+#idInterfaceVisualAreaEsquerdaBlocoMenuBanners {
+    display: none;
+}
+#idInterfaceVisualAreaAreaTitulo {
+    width: 99%;
+}
+#idInterfaceVisualRodapeBlocoVersao {
+    margin: 0 0 0 0.5em;
+}
+
+
+#idInterfaceVisualAreaEsquerdaBlocoMenuBanners{
+	width: 0;
+	display: none;
+}
+#idInterfaceVisualAreaAreaTitulo{
+	width: 100%;
+	max-width: 100%;
+}
